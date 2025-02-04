@@ -1,2 +1,2 @@
-# WordleProject
-Wordle Project
+# Wordle Web Project
+Wordle Web App
